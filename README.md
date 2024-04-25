@@ -6,9 +6,6 @@ This is a web application for checking the weather condition in a particular cit
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 no installation is required since it is a web application, to run on your local system, you will have to clone it or download the file and then you run the html file
